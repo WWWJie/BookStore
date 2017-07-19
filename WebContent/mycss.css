@@ -1,0 +1,31 @@
+td {
+	font-size: 14px;
+}
+.style1 {
+	font-size: 36px;
+	font-weight: bold;
+	color: #CC6600;
+	font-family: "隶书";
+}
+.style2 {
+	font-size: 24px;
+	font-weight: bold;
+	font-family: "隶书";
+	color: #CC6600;
+}
+.style3 {color: #FF0000}
+.button {
+	background-color: #CECFFF;
+}
+a:link {
+	color: #0000FF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #0000FF;
+}
+a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
